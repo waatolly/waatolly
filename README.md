@@ -5,6 +5,12 @@
 ### :link:get it touch
 - :ocean:This is my Instagram : oalblcy
 ****
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=drfbrht&show_icons=true&locale=en&layout=compact" alt="drfbrht" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drfbrht&show_icons=true&locale=en" alt="drfbrht" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drfbrht&" alt="drfbrht" /></p>
+****
 <h3 align="center">A passionate programming from Taiwan</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
