@@ -6,10 +6,7 @@
 - :ocean:This is my Instagram : oalblcy
 ****
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waatolly&show_icons=true&locale=en&layout=compact" alt="waatolly" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waatolly&show_icons=true&locale=en" alt="waatolly" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waatolly&" alt="waatolly" /></p>
 ****
 <h3 align="center">A passionate programming from Taiwan</h3>
 <h3 align="left">Connect with me:</h3>
