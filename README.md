@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm olly
-🔭And I currently a student.
+🔭And I currently a student.</br>
 This is my Ig:@oalblcy
 <!--
 **waatolly/waatolly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
