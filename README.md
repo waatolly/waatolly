@@ -1,9 +1,9 @@
 ### :link:Hi there 👋, I'm olly
-- 🔭I currently a student.</br>
-- :computer:learning computer science
+<h3 align="center">- 🔭I currently a student.</h3></br>
+<h3 align="center">- :computer:learning computer science</h3>
 ****
 ### :link:get it touch
-- :ocean:This is my Instagram : oalblcy
+</h3 align="center">- :ocean:This is my Instagram : oalblcy</h3>
 ****
 <h3 align="center">A passionate programming from Taiwan</h3>
 <h3 align="left">Connect with me:</h3>
