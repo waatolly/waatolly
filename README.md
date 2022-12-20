@@ -1,5 +1,5 @@
-### Hi there 👋
-🔭I'm currently student.
+### Hi there 👋, I'm olly
+🔭And I currently student.
 <!--
 **waatolly/waatolly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
