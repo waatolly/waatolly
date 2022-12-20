@@ -1,7 +1,7 @@
 ### :link:Hi there 👋, I'm olly
-- 🔭And I currently a student.</br>
+- 🔭I currently a student.</br>
 ### :link:get it touch
-- This is my Ig:oalblcy
+- :ocean:This is my Ig:oalblcy
 
 
 <!--
