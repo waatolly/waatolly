@@ -2,7 +2,7 @@
 - 🔭I currently a student.</br>
 - :computer:learning computer science
 ### :link:get it touch
-- :ocean:This is my Ig : oalblcy
+- :ocean:This is my Instagram : oalblcy
 
 
 
