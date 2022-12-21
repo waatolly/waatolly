@@ -2,17 +2,17 @@
 - 🔭I currently a student.</br>
 - :computer:learning computer science
 ****
-### :link:get in touch
-<p align="center">
-<a href="https://fb.com/胡程崴" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="胡程崴" height="30" width="40" /></a>
-<a href="https://instagram.com/oalblcy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oalblcy" height="30" width="40" /></a>
-<a href="https://discord.gg/659988224185335832" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="olly#9064" height="30" width="40" /></a>
-</p>
 <h3 align="center">A passionate programming from Taiwan</h3>
 <p  align="center">
   <img src="https://raw.githubusercontent.com/waatolly/github-profile-token/master/profile-summary-card-output/nord_dark/0-profile-details.svg" alt="github stats"></br>
 <img src="https://raw.githubusercontent.com/waatolly/github-profile-token/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg">
 <img src="https://raw.githubusercontent.com/waatolly/github-profile-token/master/profile-summary-card-output/nord_dark/4-productive-time.svg">
+</p>
+<h3 align="left">:link:get in touch</h3>
+<p align="center">
+<a href="https://fb.com/胡程崴" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="胡程崴" height="30" width="40" /></a>
+<a href="https://instagram.com/oalblcy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oalblcy" height="30" width="40" /></a>
+<a href="https://discord.gg/659988224185335832" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="olly#9064" height="30" width="40" /></a>
 </p>
 <h3 align="left">:link:Languages and Tools:</h3>
 <p align="center"> 
