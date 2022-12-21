@@ -5,10 +5,10 @@
 ### :link:get it touch
 - :ocean:This is my Instagram : oalblcy
 ****
-<img align="center">
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=waatolly&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=waatolly&theme=default)
-</img>
+<a align="center">
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=waatolly&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=waatolly&theme=nord_dark)
+</a>
 <h3 align="center">A passionate programming from Taiwan</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
