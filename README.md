@@ -8,7 +8,7 @@
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=waatolly&show_icons=true&locale=en" alt="waatolly" /></p>  
 <h3 align="left">A passionate programming from Taiwan</h3>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://fb.com/胡程崴" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="胡程崴" height="30" width="40" /></a>
 <a href="https://instagram.com/oalblcy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oalblcy" height="30" width="40" /></a>
 <a href="https://discord.gg/659988224185335832" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="olly#9064" height="30" width="40" /></a>
