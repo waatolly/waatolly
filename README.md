@@ -6,8 +6,8 @@
 - :ocean:This is my Instagram : oalblcy
 ****
 <p align="center" dir="auto">
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=waatolly&theme=nord_dark)</br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=waatolly&theme=nord_dark)</p>
+<a>![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=waatolly&theme=nord_dark)</a></br>
+<a>![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=waatolly&theme=nord_dark)</a></p>
 
 <h3 align="center">A passionate programming from Taiwan</h3>
 <h3 align="left">Connect with me:</h3>
