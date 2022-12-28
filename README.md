@@ -1,6 +1,6 @@
 ### :link:Hi there 👋, I'm olly
 - 🔭I currently a student.</br>
-- :computer:learning computer science
+- :computer:learning computer science, programming
 ****
 <h3 align="center">A passionate programming from Taiwan</h3>
 <p  align="center">
