@@ -1,5 +1,5 @@
 ### :link:Hi there 👋, I'm olly
-- 🔭I'm currently is a student.</br>
+- 🔭student now.</br>
 - :computer:learning computer science, programming
 ****
 <h3 align="center">A passionate programming from Taiwan</h3>
