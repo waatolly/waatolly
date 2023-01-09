@@ -1,7 +1,6 @@
 ### :link:Hi there 👋, I'm olly
 - 🔭student now.</br>
 - :computer:learning computer science, programming
--  because when the sun shines we'll shine together, I will told you I'll be forever.
 ****
 <h3 align="center">A passionate programming from Taiwan</h3>
 <p  align="center">
