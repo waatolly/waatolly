@@ -1,6 +1,6 @@
 ### :link:Hi there 👋, I'm olly
 - 🔭student now.</br>
-- :computer:learning artificial intelligence, programming.
+- :computer:Learning about artificial intelligence,machine learning and deep learning knowledge (present) ,and still learning program.
 ****
 <h3 align="center">A passionate programming from Taiwan</h3>
 <p  align="center">
