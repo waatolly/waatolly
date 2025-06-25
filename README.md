@@ -8,12 +8,7 @@ I decided to challenge myself to learn computer structure, embedded software des
 
 I am still continuing to learn single chip, operating system, data structure and other knowledge through self-study, and have a deep understanding of the implementation and design of embedded systems.
 ****
-<h3 align="center">A passionate programming from Taiwan</h3>
-<p  align="center">
-  <img src="https://raw.githubusercontent.com/waatolly/github-profile-token/master/profile-summary-card-output/nord_dark/0-profile-details.svg" alt="github stats"></br>
-<img src="https://raw.githubusercontent.com/waatolly/github-profile-token/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg">
-<img src="https://raw.githubusercontent.com/waatolly/github-profile-token/master/profile-summary-card-output/nord_dark/4-productive-time.svg">
-</p>
+
 <h3 align="left">:link:get in touch</h3>
 <p align="center">
 <a href="https://fb.com/胡程崴" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="胡程崴" height="30" width="40" /></a>
