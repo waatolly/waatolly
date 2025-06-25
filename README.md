@@ -1,6 +1,12 @@
 ### :link:Hi there 👋, I'm olly
-- 🔭student now.</br>
-- :computer:Learning about artificial intelligence,machine learning and deep learning knowledge (present) ,and still learning program.
+- 🔭always study.</br>
+- :My name is Olly Hu Chengwei, from Zhubei City, Hsinchu County
+
+My master's thesis mainly studies the construction of a deep learning prediction system based on cataract images taken by mobile phones. Model development and training are carried out in the Linux Ubuntu environment. The trained model is deployed on the web page, and users upload images and perform inference in real time
+
+I decided to challenge myself to learn computer structure, embedded software design and implementation, and medical imaging topics in the second year of master's degree
+
+I am still continuing to learn single chip, operating system, data structure and other knowledge through self-study, and have a deep understanding of the implementation and design of embedded systems.
 ****
 <h3 align="center">A passionate programming from Taiwan</h3>
 <p  align="center">
